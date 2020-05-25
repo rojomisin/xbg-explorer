@@ -66,7 +66,6 @@ class Block(models.Model):
 
     edge_bits = models.IntegerField()
 
-    # cuckoo_solution = ArrayField(models.IntegerField())
     cuckoo_solution = ArrayField(models.BigIntegerField())
 
     difficulty = models.IntegerField()
