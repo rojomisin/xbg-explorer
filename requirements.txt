@@ -1,4 +1,4 @@
-Django==2.2.12
+Django==2.2.27
 psycopg2-binary
 requests==2.20.0
 django_chartit==0.2.9
